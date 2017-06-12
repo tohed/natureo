@@ -1,0 +1,540 @@
+@media screen and (max-width: 1365px){
+	.banner-info {
+		padding: 0 15px;
+	}
+}
+@media screen and (max-width: 1100px){
+	/*__________________________________________________*/
+	.box-how-toearn { margin: 0; }
+	#howto-earn {
+	    padding-bottom: 150px;
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.earn-image {
+	    bottom: -50px;
+	    padding: 20px;
+	    position: absolute;
+	    right: 0;
+	    width: 50%;
+    }
+    .invest-extrainfo {
+	    padding: 136px 33px 34px 13px;
+	}
+	#investment { max-width: 950px; }
+	.joinus-image { overflow: hidden;  }
+	.joinus-image img {
+		left: 50%;
+	    max-width: 1100px;
+	    width: inherit;
+	    position: relative;
+	    -webkit-transform: translateX(-50%);
+	    transform: translateX(-50%);
+	}
+	#joinus .rightinfo { 
+		top: 6%; 
+		padding-right: 15px;
+	}
+	.group-container .right-plus {  right: -40px; }
+}
+@media screen and (max-width: 1023px){
+	.header-container { text-align: center; }
+	#header {
+		display: inline-block;
+		text-align: left;
+	}
+	#header-menu { width: inherit; }
+	#header-menu li { font-size: 14px; }
+	#header-menu li a { padding: 0 30px; }
+	.banner-info h1 {
+	    font-size: 100px;
+	    line-height: 100px;
+	    padding-bottom: 10px;
+	}
+	.group-container .right-plus {
+	    right: -200px;
+	}
+	#footer { padding-left: 15px; padding-right: 15px; }
+    #footer .leftform { width: 275px; }
+    .footer-menus { width: 550px; }
+    #footer .footer-menus ul.large,
+    #footer .footer-menus ul { width: 137px;  }
+	/*__________________________________________*/
+    .box-how-toearn::before { height: 25px; }
+    .earn-half-plus { display: none; }
+
+    .box-how-toearn {
+    	width: 60%;
+    	padding: 62px 111px 70px 15px;
+    }
+    .box-how-toearn h2 {
+	    font-size: 30px;
+	    line-height: 36px;
+	    padding-bottom: 20px;
+	}
+	#project .project-info { padding-bottom: 100px; }
+	#group-content {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.group-image { overflow: hidden; }
+	.group-image img {
+		width: inherit;
+		position: relative;
+		max-width: 1023px;
+		left: 50%;
+		-webkit-transform: translateX(-50%);
+		transform: translateX(-50%);
+	}
+	#group-content .left-info h2 {
+	    font-size: 100px;
+	    line-height: 95px;
+	}
+	#group-content .double-border { width: 250px; }
+	#group-content .left-info .double-border p {
+		font-size: 30px;
+		line-height: 30px;
+	}
+	#group-content .left-info p {
+		font-size: 16px;
+		line-height: 18px;
+	}
+	.plus-cornar  { display: none; }
+	.groupinfo { 
+		right: 15px;
+		width: 250px; 
+	}
+	.groupinfo .inner-info p {
+		font-size: 23px;
+	    line-height: 26px;
+	    padding-bottom: 27px;
+	}
+	.groupinfo .inner-info { padding: 0 15px; }
+	#represent {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.rep-info { padding-top: 80px; }
+	.rep-info p {
+		font-size: 27px;
+	    line-height: 25px;
+	}
+	.rep-info p.down {
+	    font-size: 25px;
+	    line-height: 17px;
+	}
+	.rep-bottom {
+	    bottom: -100px;
+	    left: 120px;
+	    padding: 271px 20px 68px;
+	}
+	.rep-info2 p {
+	    font-size: 28px;
+	    line-height: 27px;
+	}
+    #investment { padding: 0 15px; } 
+    .inv-image::after { left: -10px; }
+	.invest-image { overflow: hidden; }
+	.invest-image img {
+		position: relative;
+		width: inherit;
+		max-width: 1023px;
+		left: 50%;
+		-webkit-transform: translateX(-50%);
+		transform: translateX(-50%);
+	}
+	.invest-info .image-plus { display: none; }
+	.invest-info { padding: 20px; margin-right: 15px; }
+}
+@media screen and (max-width: 900px){
+	#header .logo { max-width: 110px; }
+	#header-menu li { font-size: 13px; }
+	#header-menu li a { 
+		padding: 0 25px; 
+		line-height: 50px;
+	}
+	.footer-menus { width: 50%; }
+	#footer .footer-menus ul.large,
+    #footer .footer-menus ul { 
+    	width: 50%;  
+    	padding-bottom: 20px;
+    }
+    #footer p, #footer ul li {
+	    font-size: 15px;
+	    line-height: 18px;
+	}
+	/*______________________________*/
+	#project .project-info { left: 30px; }
+	.projact-plus {
+	    bottom: -230px;
+	    left: 180px;
+	    overflow-x: hidden;
+	}
+	.project-image { overflow: hidden; }
+	.project-image img {
+		position: relative;
+		width: inherit;
+		max-width: 800px;
+		height: auto;
+		left: 50%;
+		-webkit-transform: translateX(-50%);
+		transform: translateX(-50%);
+	}
+	#project .projact-plus img {
+		max-width: 450px;
+	}
+	#project .project-info p {
+		font-size: 25px;
+		line-height: 30px;
+	}
+}
+@media screen and (max-width: 850px){
+	#trusted-by { padding: 0 15px; }
+	#trusted-by .right-logos {
+	    float: none;
+	    height: 72px;
+	    padding: 12px 60px 12px 280px;
+	    width: 100%;
+	}
+}
+@media screen and (max-width: 800px){
+	#aig { padding: 60px 0 50px; }
+	#aig h2 {
+		font-size: 50px;
+		line-height: 50px;
+	}
+	#aig p {
+		font-size: 25px;
+		line-height: 30px;
+	}
+	.rep-image { overflow: hidden; }
+	.rep-image img {
+		position: relative;
+		width: inherit;
+		left: 50%;
+		max-width: 800px;
+		-webkit-transform: translateX(-50%);
+		transform: translateX(-50%);
+	}
+	.inv-image { width: 80%; }
+	.invest-info { width:60%;  }
+	.invest-info .info-inner { padding: 42px 30px 140px 17px; }
+	.invest-extrainfo { 
+		position: relative;
+		top: inherit;
+		left: inherit;
+		right: inherit;
+		bottom: inherit;
+		width: 60%;
+		margin: 40px auto 0 auto;
+		padding: 50px 33px 50px 13px; 
+	}
+	.invest-extrainfo p {
+	    font-size: 21px;
+	    line-height: 30px;
+	}
+	.invest-info p {
+	    font-size: 25px;
+	    line-height: 30px;
+	    padding-bottom: 30px;
+	}
+	.inv-image{ position: relative; }
+	.inv-image:after {
+		bottom: inherit;
+	    height: 49px;
+	    left: 0;
+	    opacity: 1;
+	    position: absolute;
+	    top: 100%;
+	    width: 49px;
+	    margin-left: -26px;
+	    margin-top: -22px;
+	}
+}
+@media screen and (max-width: 767px){
+	#header-menu li a { 
+		font-size: 12px;
+		padding: 0 15px; 
+		line-height: 50px;
+	}
+	#joinus .rightinfo { width: 410px; }
+	#joinus .click-button {
+	    width: 160px;
+	}
+	#joinus .click-button p {
+	    font-size: 30px;
+	    line-height: 39px;
+	}
+	#trusted-by { top: -22px; }
+	#trusted-by .left-trust {
+	    height: 55px;
+	    width: 168px;
+	}
+	#trusted-by p { font-size: 20px; line-height: 55px; }
+	#trusted-by .right-logos {
+	    height: 55px;
+	    padding: 2px 20px 12px 179px;
+	}
+}
+@media screen and (max-width: 700px){
+	#group-content .left-info { 
+		padding: 60px 0 0 0; 
+	}
+	.groupinfo {
+		top: 100%;
+		-webkit-transform: translateY(-100%);
+		transform: translateY(-100%);
+		bottom: -30px;
+		height: 257px;
+	}
+	.group-container .right-plus,
+	.groupinfo:before { display: none; }
+	.groupinfo .inner-info {
+		top: 10px;
+		height: 100%;
+		-webkit-transform: translateY(0);
+		transform: translateY(0);
+		height: auto;
+		left: 0;
+	}
+}
+@media screen and (max-width: 640px){
+	#header { 
+		display: block; 
+		background: transparent; 
+		padding: 6px 0 0 15px;
+	}
+	.banner-info h1 {
+	    font-size: 70px;
+	    line-height:75px;
+	}
+	.banner-info p {
+	    font-size: 15px;
+	    letter-spacing: 8px;
+	    line-height: 29px;
+	}
+	#footer .leftform,
+	.footer-menus { 
+		float: none;
+		width: 100%;
+	}
+	#footer .leftform { 
+		padding-left: 0;
+		padding-bottom: 30px; 
+	}
+	#footer .copyright { padding-top: 15px; }
+	/*___________________________________________________*/
+     .box-how-toearn {
+	    padding: 62px 60px 70px 15px;
+	    width: 60%;
+	}
+	.box-how-toearn h2 {
+	    font-size: 19px;
+	    line-height: 29px;
+	}
+	.box-how-toearn p {
+	    font-size: 18px;
+	    line-height: 25px;
+	}
+	.projact-plus { display: none; }
+	#project .project-info { width: 85%; }
+	#project .project-info { padding: 30px 15px 50px 15px; }
+	.rep-info h2 {
+	    font-size: 42px;
+	    line-height: 40px;
+	    padding-bottom: 10px;
+	}
+	.rep-info p {
+	    font-size: 21px;
+	    line-height: 25px;
+	    padding-left: 20px;
+	}
+	.rep-info p.down {
+	    font-size: 20px;
+	    line-height: 22px;
+	}
+	.rep-bottom {
+	    bottom: -100px;
+	    left: inherit;
+	    right: inherit;
+	    max-width: 250px;
+	    margin: 0 auto;
+	    padding: 170px 20px 50px 20px;
+
+	    position: relative;
+	    width: inherit;
+	}
+	.rep-bottom .feture-image {
+	    left: -25px;
+	    top: -47px;
+	}
+	#investment { 
+		top: 0; 
+		padding-top: 50px; 
+	}
+	.inv-image { width: 100%; }
+	.invest-info {
+		position: relative;
+	    top: inherit;
+	    left: inherit;
+	    right: inherit;
+	    margin: 0;
+	    width: 100%;
+	    max-width: 80%;
+	    margin: 0 auto;
+	    margin-top: -70px;
+	}
+	.invest-info .info-inner {
+	    padding: 33px 30px 33px 17px;
+	}
+	.invest-extrainfo {
+		position: relative;
+		top: inherit;
+		left: inherit;
+		right: inherit;
+		max-width: 70%;
+		margin: 0 auto;
+	    padding: 30px;
+	}
+	#trusted-by .left-trust {
+	    height: 50px;
+	    width: 80px;
+	}
+	#trusted-by p {
+	    font-size: 14px;
+	    line-height: 50px;
+	}
+	#trusted-by .right-logos {
+	    height: 50px;
+	    padding: 2px 9px 0 93px;
+	}
+}
+@media screen and (max-width: 550px){
+   /*_______________________________*/
+   .box-how-toearn {
+	    padding: 50px 15px 130px 15px;
+	    width: 90%;
+	}
+	.earn-image {
+	    right: 0;
+	    width: 50%;
+	}
+	.groupinfo {
+		width: 85%;
+		height: 210px;
+	}
+	#investment { padding-top: 110px; }
+	.invest-info {
+	    margin: -70px auto 0 auto;
+	    width: 100%;
+	    max-width: 90%;
+	}
+	.invest-extrainfo {
+		margin-top: 50px;
+		width: 100%;
+	    max-width: 90%;
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+}
+@media screen and (max-width: 480px){
+	.banner-image { overflow: hidden; }
+	.banner-container .banner-image img {
+	    left: 50%;
+	    max-width: 480px;
+	    position: relative;
+	    -webkit-transform: translateX(-50%);
+	    transform: translateX(-50%);
+		width: inherit;
+	}
+	.banner-info {
+		top: inherit;
+		bottom: 50px;
+	}
+
+	.banner-info h1 {
+	    font-size: 50px;
+	    line-height: 50px;
+	}
+	.banner-info p {
+	    font-size: 12px;
+	    letter-spacing: 5px;
+	    line-height: 25px;
+	}
+	/*____________________________*/
+	.earn-image { width: 60%; }
+	#group-content .left-info h2 {
+	    font-size: 84px;
+	    line-height: 76px;
+	}
+	#group-content .double-border {
+	    width: 250px;
+	}
+	#group-content .left-info p {
+	    font-size: 15px;
+	    line-height: 9px;
+	}
+	#group-content .left-info .double-border p {
+	    font-size: 26px;
+	    line-height: 22px;
+	}
+	.groupinfo .inner-info p {
+	    font-size: 18px;
+	    line-height: 25px;
+	    padding-bottom: 15px;
+	}
+	#joinus .rightinfo {
+	    width: 300px;
+	    top: 50px;
+	}
+	#joinus .learnmore { 
+		top: 105px; 
+		width: 220px;
+	}
+	#joinus .learnmore p {
+	    font-size: 18px;
+	    line-height: 22px;
+	}
+	#joinus .getstart { left: 100px; }
+	#joinus .clickhear { margin-left: 70px; }
+	#joinus .clickhear a::after {
+	    height: 40px;
+	    width: 40px;
+	}
+	#joinus .clickhear a {
+	    line-height: 40px;
+	    width: 175px;
+	}
+	#joinus p {
+	    font-size: 25px;
+	    line-height: 26px
+	}
+	#trusted-by { top: -39px; }
+	#trusted-by .left-trust {
+		height: 40px;
+		width: 100%;
+		float: none;
+	}
+	#trusted-by .left-trust p { line-height: 40px; }
+		#trusted-by .right-logos {
+		    padding: 5px;
+		    height: inherit;
+	}
+}
+@media screen and (max-width: 380px){
+	/*________________________________*/
+    .earn-image { width: 70%; }
+    .rep-info h2 {
+	    font-size: 35px;
+	    line-height: 35px;
+	    padding-bottom: 5px;
+	}
+	.rep-info2 p {
+	    font-size: 22px;
+	    line-height: 27px;
+	}
+}
+@media screen and (max-width: 330px){
+	/*____________________________________*/
+    .earn-image { width: 80%; }
+}
